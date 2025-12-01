@@ -18,7 +18,7 @@ This project performs an extensive **Exploratory Data Analysis (EDA)** and **vis
 
 - **Dataset Name:** Heart Disease Dataset  
 - **File:** `heart.csv`  
-- **Source:** [Kaggle - Heart Disease UCI Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)  
+- **Source:** Available in the `data/` folder of this repository.  
 - **Description:**  
   The dataset contains various health-related attributes such as:
   - Age  
