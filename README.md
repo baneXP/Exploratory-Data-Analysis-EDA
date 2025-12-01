@@ -8,6 +8,47 @@
 
 # Projects
 
+# Heart Disease Analysis & Visualization with Python
+
+This project performs an extensive **Exploratory Data Analysis (EDA)** and **visualization** on a heart disease dataset to uncover hidden patterns, relationships, and key health indicators associated with heart disease.
+
+---
+
+## Dataset
+
+- **Dataset Name:** Heart Disease Dataset  
+- **File:** `heart.csv`  
+- **Source:** [Kaggle - Heart Disease UCI Dataset](https://www.kaggle.com/ronitf/heart-disease-uci)  
+- **Description:**  
+  The dataset contains various health-related attributes such as:
+  - Age  
+  - Sex  
+  - Chest pain type  
+  - Blood pressure  
+  - Cholesterol  
+  - Fasting blood sugar  
+  - Maximum heart rate  
+  - Exercise-induced angina  
+  - And a target variable indicating the presence or absence of heart disease.
+
+---
+
+## 🧠 Objective
+
+The main goals of this project are:
+1. To perform **data cleaning** and **exploratory analysis** on the heart dataset.  
+2. To **visualize correlations** and find which features most affect heart disease.  
+3. To prepare the dataset for potential **predictive modeling**.  
+
+---
+## Tech Stack
+
+- **Language:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Tools:** Jupyter Notebook  
+
+---
+
 ## Superstore Sales EDA
 
 - **Description:**  
