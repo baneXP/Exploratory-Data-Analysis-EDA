@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+sentence-transformers
+ollama
+streamlit
+gradio
+tqdm
+ipykernal
